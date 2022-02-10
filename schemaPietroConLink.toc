@@ -1,0 +1,2 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Uno schema ABMi}{2}{0}{1}
