@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  12 FEB 2022 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  12 FEB 2022 20:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,8 +102,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks16
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -801,12 +801,12 @@ LaTeX Font Info:    ... okay on input line 55.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=11.0pt
+* \topskip=9.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -938,7 +938,7 @@ Package caption Info: End \AtBeginDocument code.
 tex/updmap/pdftex.map}
 
 ]
-<1.pdf, id=84, 587.1486pt x 387.65399pt>
+<1.pdf, id=105, 587.1486pt x 387.65399pt>
 File: 1.pdf Graphic file (type pdf)
 <use 1.pdf>
 Package pdftex.def Info: 1.pdf  used on input line 81.
@@ -946,7 +946,7 @@ Package pdftex.def Info: 1.pdf  used on input line 81.
  [2
 
  <./1.pdf, page is rotated 90 degrees>]
-<2.pdf, id=136, 588.20135pt x 389.455pt>
+<2.pdf, id=163, 588.20135pt x 389.455pt>
 File: 2.pdf Graphic file (type pdf)
 <use 2.pdf>
 Package pdftex.def Info: 2.pdf  used on input line 95.
@@ -954,7 +954,7 @@ Package pdftex.def Info: 2.pdf  used on input line 95.
  [3
 
  <./2.pdf, page is rotated 90 degrees>]
-<3.pdf, id=189, 584.6293pt x 385.58017pt>
+<3.pdf, id=220, 584.6293pt x 385.58017pt>
 File: 3.pdf Graphic file (type pdf)
 <use 3.pdf>
 Package pdftex.def Info: 3.pdf  used on input line 109.
@@ -962,7 +962,7 @@ Package pdftex.def Info: 3.pdf  used on input line 109.
  [4
 
  <./3.pdf, page is rotated 90 degrees>]
-<4.pdf, id=241, 587.27524pt x 389.455pt>
+<4.pdf, id=278, 587.27524pt x 389.455pt>
 File: 4.pdf Graphic file (type pdf)
 <use 4.pdf>
 Package pdftex.def Info: 4.pdf  used on input line 123.
@@ -970,50 +970,60 @@ Package pdftex.def Info: 4.pdf  used on input line 123.
  [5
 
  <./4.pdf, page is rotated 90 degrees>]
-<5.pdf, id=294, 587.33313pt x 388.97562pt>
-File: 5.pdf Graphic file (type pdf)
-<use 5.pdf>
-Package pdftex.def Info: 5.pdf  used on input line 137.
-(pdftex.def)             Requested size: 293.66585pt x 194.48732pt.
+<4b.png, id=335, 1854.93pt x 1224.575pt>
+File: 4b.png Graphic file (type png)
+<use 4b.png>
+Package pdftex.def Info: 4b.png  used on input line 137.
+(pdftex.def)             Requested size: 278.2275pt x 183.67831pt.
  [6
 
+ <./4b.png>]
+<5.pdf, id=380, 587.33313pt x 388.97562pt>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf>
+Package pdftex.def Info: 5.pdf  used on input line 151.
+(pdftex.def)             Requested size: 293.66585pt x 194.48732pt.
+ [7
+
  <./5.pdf, page is rotated 90 degrees>]
-<6.pdf, id=346, 593.21625pt x 389.455pt>
+<6.pdf, id=439, 593.21625pt x 389.455pt>
 File: 6.pdf Graphic file (type pdf)
 <use 6.pdf>
-Package pdftex.def Info: 6.pdf  used on input line 151.
+Package pdftex.def Info: 6.pdf  used on input line 165.
 (pdftex.def)             Requested size: 296.60739pt x 194.72702pt.
-
-Overfull \vbox (3.68137pt too high) detected at line 151
- []
-
-[7
-
- <./6.pdf, page is rotated 90 degrees>]
-<7.pdf, id=400, 594.22pt x 389.455pt>
-File: 7.pdf Graphic file (type pdf)
-<use 7.pdf>
-Package pdftex.def Info: 7.pdf  used on input line 166.
-(pdftex.def)             Requested size: 297.10927pt x 194.72702pt.
  [8
 
+ <./6.pdf, page is rotated 90 degrees>]
+<7.pdf, id=497, 594.22pt x 389.455pt>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf>
+Package pdftex.def Info: 7.pdf  used on input line 180.
+(pdftex.def)             Requested size: 297.10927pt x 194.72702pt.
+
+[9
+
  <./7.pdf, page is rotated 90 degrees>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 188
+LaTeX Font Info:    Trying to load font information for U+msa on input line 202
 .
- (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 188
+LaTeX Font Info:    Trying to load font information for U+msb on input line 202
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [9
+) [10
 
-] [10
+] [11
 
 ]
-[11
+[12
+
+] [13
+
+] [14
 
 ]
 \tf@nav=\write6
@@ -1025,30 +1035,34 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@snm=\write8
 \openout8 = `schemaPietroConLink.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
  (./schemaPietroConLink.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `schemaPietroConLink.out' has not changed.
-(rerunfilecheck)             Checksum: 9C52E4AE5977E3B9648FD6CDEBC8A6B2;91.
+(rerunfilecheck)             Checksum: B95ACC49557F1D884206D769CA605AAC;199.
  ) 
 Here is how much of TeX's memory you used:
- 20048 strings out of 480608
- 378652 string characters out of 5903631
- 646801 words of memory out of 5000000
- 35410 multiletter control sequences out of 15000+600000
- 556095 words of font info for 56 fonts, out of 8000000 for 9000
+ 20084 strings out of 480608
+ 379115 string characters out of 5903631
+ 655267 words of memory out of 5000000
+ 35428 multiletter control sequences out of 15000+600000
+ 559134 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,19n,67p,786b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,19n,67p,1077b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020
-/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on schemaPietroConLink.pdf (11 pages, 800650 bytes).
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on schemaPietroConLink.pdf (14 pages, 2069443 bytes).
 PDF statistics:
- 606 PDF objects out of 1000 (max. 8388607)
- 523 compressed objects within 6 object streams
- 32 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 833 PDF objects out of 1000 (max. 8388607)
+ 734 compressed objects within 8 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
