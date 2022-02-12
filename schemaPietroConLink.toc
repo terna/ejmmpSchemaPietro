@@ -2,4 +2,4 @@
 \beamer@sectionintoc {1}{Uno schema ABMi}{2}{0}{1}
 \beamer@sectionintoc {2}{Linksi}{10}{0}{2}
 \beamer@sectionintoc {3}{Note di sintesi}{13}{0}{3}
-\beamer@sectionintoc {4}{Strumento e primi passi}{14}{0}{4}
+\beamer@sectionintoc {4}{Strumento e primi passi}{16}{0}{4}
